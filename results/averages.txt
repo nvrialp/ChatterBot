@@ -1,0 +1,72 @@
+Conversations+greetings:
+Average of 'Adequacy': 2.0
+Average of 'Sense': 1.8666666666666667
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    2
+    How many times did chatterbot answer compared to spaCy?
+    1
+
+Conversations+greetings-cgpt:
+Average of 'Adequacy': 2.066666666666667
+Average of 'Sense': 2.1333333333333333
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    3
+    How many times did chatterbot answer compared to spaCy?
+    0
+
+Everything:
+Average of 'Adequacy': 1.9333333333333333
+Average of 'Sense': 1.8
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    2
+    How many times did chatterbot answer compared to spaCy?
+    0
+
+Everything-cgpt:
+Average of 'Adequacy': 1.8666666666666667
+Average of 'Sense': 1.8
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    2
+    How many times did chatterbot answer compared to spaCy?
+    0
+
+Emotions:
+Average of 'Adequacy': 2.1333333333333333
+Average of 'Sense': 1.8
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    1
+    How many times did chatterbot answer compared to spaCy?
+    0
+
+Emotions-cgpt:
+Average of 'Adequacy': 2.466666666666667
+Average of 'Sense': 2.533333333333333
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    4.5
+    How many times did chatterbot answer compared to spaCy?
+    0
+
+AI+profilebot:
+Average of 'Adequacy': 2.3333333333333335
+Average of 'Sense': 2.2666666666666666
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    3
+    How many times did chatterbot answer compared to spaCy?
+    0
+
+
+AI+profilebot-cgpt:
+Average of 'Adequacy': 2.1333333333333333
+Average of 'Sense': 2.1333333333333333
+
+    Overall, how would you rate the model going from 1 to 5 being 1 awful and 5 perfect? 
+    3
+    How many times did chatterbot answer compared to spaCy?
+    0
