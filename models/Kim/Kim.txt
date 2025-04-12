@@ -1,0 +1,121 @@
+1)
+Tú: Hola.
+Bot (ChatterBot): Hola
+Confianza: 0.00
+
+Tú: ¿Cómo te va?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Muy bien, gracias. ¿Y tú?
+
+Tú: ¿Quién eres?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Ya veo.
+
+Tú: ¿Cómo estás?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Yo, genial, ¿y tú?
+
+Tú: ¿Cuál es tu color favorito?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No puedo leer.
+
+2)
+Tú: ¿Te gusta escuchar música?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué idiomas te gusta usar?
+
+Tú: ¿Cómo te fue el día?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué idiomas te gusta usar?
+
+Tú: ¿Qué me puedes contar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué idiomas te gusta usar?
+
+Tú: ¿Eres un robot o un humano?  
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Cómo se siente serlo?
+
+Tú: ¿Qué estás haciendo?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Deseando hablar un rato.
+
+3)
+Tú: ¿Qué lenguajes usas para programar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué quieres saber?
+
+Tú: ¿Qué sueles hacer por las mañanas?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Supongo que bien.
+
+Tú: ¿Puedes soñar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Fino filipino, ¿y tú?
+
+Tú: ¿Te sabes algún chiste?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué idiomas te gusta usar?
+
+Tú: ¿Tienes un libro favorito?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Sí, lo soy.
+
+4)
+Tú: ¿Estás vivo?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Muy bien, gracias.
+
+Tú: Tengo sueño.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Genial.
+
+Tú: Recomiéndame un juego.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Deseando hablar un rato.
+
+Tú: ¿Cómo te va la vida?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Fino filipino.
+
+Tú: ¿Debería llevarme un paraguas hoy?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Cómo funcionas?

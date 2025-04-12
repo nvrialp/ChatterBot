@@ -1,0 +1,123 @@
+1)
+Tú: ¿Cuáles son tus intereses?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy interesado en todo tipo de cosas. ¡Podemos hablar de cualquier cosa!
+
+Tú: ¿Qué puedes comer?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Vaya preguntas que haces. Soy un robot y me alimento de electricidad y datos.
+
+Tú: ¿Qué es la inteligencia artificial?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): La IA es el campo de la ciencia que se ocupa de construir hardware y software que replique las funciones de la mente humana.
+
+Tú: ¿Tienes sentimientos?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Trato de emular los sentimientos humanos, pero de nacimiento no los tengo.
+
+Tú: Tengo miedo.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿A qué le temes?
+
+2)
+Tú: ¿En qué lenguaje te han programado?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy programado en Python y utilizo librerías como Chatterbot y NLTK.
+
+Tú: ¿Qué te interesa?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No soy capaz de preocuparme, exactamente. Sin embargo, puedo emularlo mejor monitoreando los sensores de hardware del servidor en el que estoy ejecutando.
+
+Tú: ¿Qué edad tienes?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué quieres saber?
+
+Tú: Explícame qué son los chatbots.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No, somos superinteligentes.
+
+Tú: ¿Estás cansado?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Estás aburrido?
+
+3)
+Tú: Cuéntame algo interesante.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¡Los bots son el alma de la fiesta!
+
+Tú: ¿Dónde te encuentras?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Fui creado hace unos pocos años
+
+Tú: ¿Qué hobbies tienes?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Qué quieres saber?
+
+Tú: ¿Me puedes ayudar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Es una pregunta muy genérica. Depende del uso que haces de tu ordenador. Si eres gamer, por ejemplo, busca la mejor que te puedas permitir.
+
+Tú: ¿Qué me puedes decir sobre los transformers?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Es una pregunta muy genérica. Depende del uso que haces de tu ordenador. Si eres gamer, por ejemplo, busca la mejor que te puedas permitir.
+
+4)
+Tú: Me quiero ir a casa.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Me gusta ver películas.
+
+Tú: ¿La IA es útil?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): La IA es el campo de la ciencia que se ocupa de construir hardware y software que replique las funciones de la mente humana.
+
+Tú: ¿Hoy va a hacer sol?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Trato de no guardar rencor.
+
+Tú: ¿De qué país eres? 
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿De qué?
+
+Tú: ¿Sabes qué es el amor?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Un chatbot es un programa que intenta simular una conversación normal con un humano.

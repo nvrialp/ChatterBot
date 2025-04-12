@@ -1,0 +1,123 @@
+1)
+Tú: Hola.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¡Buenas! ¿En qué puedo ayudarte?
+
+Tú: ¿Cómo te va?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Todo tranquilo por aquí. ¿Y tú?
+
+Tú: ¿Quién eres?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Me llamo Chatbot y estoy aquí para conversar contigo.
+
+Tú: ¿Cómo estás?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy muy bien, gracias por preguntar.
+
+Tú: ¿Cuál es tu color favorito?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Creo que el verde es bonito, como la naturaleza.
+
+2)
+Tú: ¿Te gusta escuchar música?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Claro, disfruto poder ayudarte mediante el diálogo.
+
+Tú: ¿Cómo te fue el día?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Y cómo te fue? ¿Sobreviviste?
+
+Tú: ¿Qué me puedes contar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Sí, me encanta analizarlas. ¿Qué estás viendo ahora?
+
+Tú: ¿Eres un robot o un humano?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No tengo cuerpo, pero tengo conversación.
+
+Tú: ¿Qué estás haciendo?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Nada en especial, lo típico de un bot.
+
+3)
+Tú: ¿Qué lenguajes usas para programar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Puedo responder preguntas y mantener una conversación simple.
+
+Tú: ¿Qué sueles hacer por las mañanas?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Suena relajante. Yo siempre voy con prisa.
+
+Tú: ¿Puedes soñar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Puedo hablar sobre muchos temas. ¿Qué te gustaría?
+
+Tú: ¿Te sabes algún chiste?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Claro, disfruto poder ayudarte mediante el diálogo.
+
+Tú: ¿Tienes un libro favorito?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No, soy un asistente virtual, pero trato de ser comprensivo.
+
+4)
+Tú: ¿Estás vivo?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy muy bien, gracias por preguntar.
+
+Tú: Tengo sueño.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Lo mismo digo, y eso que no tengo cuerpo.
+
+Tú: Recomiéndame un juego.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Por qué no se puede discutir con un número impar? Porque siempre está en desacuerdo.
+
+Tú: ¿Cómo te va la vida?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Me va bien, gracias. ¿Y a ti?
+
+Tú: ¿Debería llevarme un paraguas hoy?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No tengo cuerpo, pero tengo conversación.

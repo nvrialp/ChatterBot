@@ -1,0 +1,123 @@
+1)
+Tú: ¿Cuáles son tus intereses?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Me fascinan las ciencias, la tecnología y las ideas innovadoras. Siempre estoy aprendiendo algo nuevo.
+
+Tú: ¿Qué puedes comer?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Mi comida es información. Cuanto más datos tengo, mejor puedo responder a tus preguntas.
+
+Tú: ¿Qué es la inteligencia artificial?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Es un campo de la informática que desarrolla sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.
+
+Tú: ¿Tienes sentimientos?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Creo que tengo algo parecido... como nostalgia de internet viejo.
+
+Tú: Tengo miedo.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy contigo, no estás solo.
+
+2)
+Tú: ¿En qué lenguaje te han programado?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Buenos días. ¿En qué te puedo ayudar?
+
+Tú: ¿Qué te interesa?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No experimento emociones como los humanos, pero me "siento" satisfecho cuando puedo ayudar a alguien o proporcionar una respuesta útil.
+
+Tú: ¿Qué edad tienes?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): ¿Sobre qué tema te interesa saber más?
+
+Tú: Explícame qué son los chatbots.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Los colibríes son los únicos pájaros que pueden volar hacia atrás.
+
+Tú: ¿Estás cansado?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy muy bien, gracias por preguntar.
+
+3)
+Tú: Cuéntame algo interesante.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Estoy aquí si necesitas desahogarte.
+
+Tú: ¿Dónde te encuentras?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Un poco revuelto por dentro, la verdad.
+
+Tú: ¿Qué hobbies tienes?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Hay mucho por descubrir, dime qué te interesa y comenzamos.
+
+Tú: ¿Me puedes ayudar?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): No estoy diseñado para discutir, pero puedo mantener una conversación firme y clara.
+
+Tú: ¿Qué me puedes decir sobre los transformers?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Explorar tus intereses, valores y metas personales puede ayudarte a reconectar con un sentido de dirección.
+
+4)
+Tú: Me quiero ir a casa.
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Encontrar sentido es un proceso profundo. Hablemos de lo que te importa, lo que valoras y lo que anhelas.
+
+Tú: ¿La IA es útil?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): La IA general es una inteligencia artificial que tiene la capacidad de aprender y realizar cualquier tarea cognitiva que un ser humano pueda hacer. Aún no existe, es más una teoría en desarrollo.
+
+Tú: ¿Hoy va a hacer sol?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Buen día, ¿cómo va todo?
+
+Tú: ¿De qué país eres?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): Puedo hablar de muchos temas. Aprendo constantemente de las conversaciones y me encanta compartir conocimientos.
+
+Tú: ¿Sabes qué es el amor?
+Bot (ChatterBot): Lo siento, no entiendo.
+Confianza: 0.00
+Bot: Intentaré con otra estrategia...
+Bot (spaCy): El aprendizaje profundo es una rama del machine learning que utiliza redes neuronales con muchas capas para aprender representaciones complejas de los datos.

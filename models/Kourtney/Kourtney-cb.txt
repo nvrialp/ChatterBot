@@ -1,0 +1,62 @@
+1)
+Tú: Hola
+Bot (ChatterBot): ¿Cómo te va?
+Confianza: 1.00
+
+Tú: ¿Cómo te va?
+Bot (ChatterBot): ¿Cómo te va?
+Confianza: 0.00
+
+Tú: ¿Quién eres?
+Bot (ChatterBot): ¿Quién eres?
+Confianza: 0.00
+
+Tú: ¿Cómo estás?
+Bot (ChatterBot): ¿Cómo estás?
+Confianza: 0.00
+
+Tú: ¿Cuál es tu color favorito?
+Bot (ChatterBot): ¿Cuál es tu color favorito?
+Confianza: 0.00
+
+2)
+Tú: ¿Te gusta escuchar música?
+Bot (ChatterBot): ¿Te gusta escuchar música?
+Confianza: 0.00
+
+Tú: ¿Cómo te fue el día?
+Bot (ChatterBot): ¿Cómo te va?
+Confianza: 0.69
+
+Tú: ¿Qué me puedes contar?
+Bot (ChatterBot): ¿Qué me puedes contar?
+Confianza: 0.00
+
+Tú: ¿Eres un robot o un humano?
+Bot (ChatterBot): ¿Eres un robot o un humano?
+Confianza: 0.00
+
+Tú: ¿Qué estás haciendo?
+Bot (ChatterBot): ¿Cuál es tu color favorito?
+Confianza: 0.50
+
+3)
+Tú: ¿Qué lenguajes usas para programar?
+Bot (ChatterBot): ¿Qué sueles hacer por las mañanas?
+Confianza: 1.00
+
+Tú: ¿Qué sueles hacer por las mañanas?
+Bot (ChatterBot): ¿Qué sueles hacer por las mañanas?
+Confianza: 0.00
+
+Tú: ¿Puedes soñar?
+Bot (ChatterBot): ¿Puedes soñar?
+Confianza: 0.00
+
+Tú: ¿Te sabes algún chiste?
+Bot (ChatterBot): ¿Te sabes algún chiste?
+Confianza: 0.00
+
+Tú: ¿Tienes un libro favorito?
+Bot (ChatterBot): ¿Te gusta escuchar música?
+Confianza: 0.68
